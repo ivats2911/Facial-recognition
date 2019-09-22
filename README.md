@@ -8,4 +8,4 @@ To the run this project.
 
 3.In final step we have to run Reco.py to recongnize the faces.
 
-U should delete the old data set first while to run this project from start.
+U should delete the old data set first  to run this project from start.
